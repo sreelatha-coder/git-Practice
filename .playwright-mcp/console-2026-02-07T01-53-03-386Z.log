@@ -1,0 +1,11 @@
+[    1873ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://sonic.fdp.api.flipkart.com/4/data/collector/business:0
+[    1874ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://sonic.fdp.api.flipkart.com/4/data/collector/business:0
+[    2048ms] [WARNING] Warning: Component with name Placeholderis not available. Returning a fallback View @ https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/2fbf72100363c029e701f7ca980ae106/CrossCommon.js:0
+[    2131ms] [WARNING] Warning: Component with name RNShimmeringViewis not available. Returning a fallback View @ https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/2fbf72100363c029e701f7ca980ae106/CrossCommon.js:0
+[    2177ms] [WARNING] Warning: Component with name GifViewis not available. Returning a fallback View @ https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/2fbf72100363c029e701f7ca980ae106/CrossCommon.js:0
+[    2178ms] [WARNING] Warning: Component with name LiveVideoViewis not available. Returning a fallback View @ https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/2fbf72100363c029e701f7ca980ae106/CrossCommon.js:0
+[    2180ms] [WARNING] Warning: Component with name HybridConditionTrackerViewis not available. Returning a fallback View @ https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/2fbf72100363c029e701f7ca980ae106/CrossCommon.js:0
+[    2246ms] [ERROR] Access to fetch at 'https://static-assets-web.flixcart.com/www/linchpin/batman-returns/codes.json' from origin 'https://www.flipkart.com' has been blocked by CORS policy: Request header field x-user-agent is not allowed by Access-Control-Allow-Headers in preflight response. @ https://www.flipkart.com/:0
+[    2247ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://static-assets-web.flixcart.com/www/linchpin/batman-returns/codes.json:0
+[    2390ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.flipkart.com/:0
+[  110487ms] [ERROR] Failed to load resource: the server responded with a status of 406 () @ https://sonic.fdp.api.flipkart.com/4/data/collector/business:0
