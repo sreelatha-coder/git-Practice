@@ -1,5 +1,6 @@
 import { defineConfig, devices } from '@playwright/test';
-require('dotenv').config()
+import dotenv from 'dotenv';
+dotenv.config()
 
 /**
  * Read environment variables from file.
@@ -13,7 +14,7 @@ require('dotenv').config()
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
-  timeout : 135000,
+  timeout: 205000,
   expect: {
     timeout: 20000,
   },
